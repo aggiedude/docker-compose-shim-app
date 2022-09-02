@@ -1,2 +1,2 @@
-# phpstorm-docker-compose-app
-Docker-compose masquarade for phpstorm 
+# docker-compose-shim-app
+
